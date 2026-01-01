@@ -429,11 +429,3 @@ Ongoing support, bug fixes, feature enhancements, and custom browser extension d
   <sub>Clean code is written by someone who cares.</sub>
 </div>
 
-/*
- * ┌── o m a r ──┐
- * │ gh@iamOmarFaruk
- * │ omarfaruk.dev
- * │ Created: 01-01-26
- * │ Updated: 01-01-26
- * └─ iamOmarFaruk ───┘
- */
