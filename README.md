@@ -44,15 +44,17 @@
 <br/>
 
 <!-- About Me Section -->
+<!-- About Me Section -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
+  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
   <br/>
-  <strong><span style="font-size: 24px;">About Me & Expertise</span></strong>
+  <strong><span style="font-size: 30px;">About Me & Expertise</span></strong>
+  <br/>
+  <span style="color: #a1a1aa;">Transforming complex problems into elegant, scalable digital solutions</span>
+  <br/><br/>
 </div>
 
-<p align="center">
-  <sub>Transforming complex problems into elegant, scalable digital solutions</sub>
-</p>
+
 
 <br/>
 
@@ -60,13 +62,13 @@
 <tr>
 <td width="60%" valign="center">
 
-I don't just write code; **I engineer digital engines for business growth.** In a world crowded with developers, I stand out by bridging the gap between complex technical requirements and your strategic goals.
+I’ve spent the last **12+ years** building software that solves real business problems.
 
-Whether you need a SaaS platform built from scratch, a high-traffic e-commerce overhaul, or a custom automation tool, I bring **12+ years of battle-tested expertise** to the table. I treat your project not as a gig, but as a partnership—delivering secure, scalable, and high-performance solutions that work flawlessly from day one.
+To me, you aren't just a ticket number. I take the time to look beyond the technical specs and understand your vision, ensuring we build a solution that actually drives growth. Whether it's a complex SaaS platform or a custom automation tool, I deliver code that is **clean, secure, and reliable.**
 
 <br/>
 
-**Let's stop talking about 'specs' and start building your competitive advantage.**
+**Honest advice, transparent work, and results you can build on.**
 
 </td>
 <td width="40%" align="center">
@@ -84,15 +86,17 @@ Whether you need a SaaS platform built from scratch, a high-traffic e-commerce o
 
 
 <!-- Services Card View -->
+<!-- Services Card View -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
+  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
   <br/>
-  <strong><span style="font-size: 24px;">Premium Services & Solutions</span></strong>
+  <strong><span style="font-size: 30px;">Premium Services & Solutions</span></strong>
+  <br/>
+  <span style="color: #a1a1aa;">Delivering excellence through modern technologies and best practices</span>
+  <br/><br/>
 </div>
 
-<p align="center">
-  <sub>Delivering excellence through modern technologies and best practices</sub>
-</p>
+
 
 <br/>
 
@@ -345,10 +349,15 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 <br/>
 
 <!-- Tech Stack Section -->
-<h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
-  Tech Stack
-</h2>
+<!-- Tech Stack Section -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <br/>
+  <strong><span style="font-size: 30px;">Tech Stack</span></strong>
+  <br/>
+  <span style="color: #a1a1aa;">The modern technologies I use to build scalable solutions</span>
+  <br/><br/>
+</div>
 
 <div align="center">
 
@@ -398,10 +407,15 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 
 
 <!-- Featured Projects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" height="28px" alt="Projects"/>
-  Featured Projects
-</h2>
+<!-- Featured Projects -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <br/>
+  <strong><span style="font-size: 30px;">Featured Projects</span></strong>
+  <br/>
+  <span style="color: #a1a1aa;">Recent work showcasing my technical capabilities</span>
+  <br/><br/>
+</div>
 
 <table border="0" width="100%">
   <tr>
@@ -452,10 +466,15 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 
 
 <!-- Testimonials -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/>
-  What Clients Say
-</h2>
+<!-- Testimonials -->
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <br/>
+  <strong><span style="font-size: 30px;">What Clients Say</span></strong>
+  <br/>
+  <span style="color: #a1a1aa;">Feedback from satisfied clients around the globe</span>
+  <br/><br/>
+</div>
 
 <div align="center">
 
