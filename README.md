@@ -127,78 +127,22 @@ Optimizing:
 <!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- Core Competencies -->
-<h2 align="center">
+<!-- What I Offer -->
+<h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
-  Core Competencies
+  What I Offer
 </h2>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/code.png" width="80px" alt="Full Stack"/>
-      <br><br>
-      <strong>Full-Stack Dev</strong>
-      <br><br>
-      <sub>Building scalable solutions<br/>with React, Next.js, and<br/>modern backend technologies</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/online-store.png" width="80px" alt="E-commerce"/>
-      <br><br>
-      <strong>E-commerce & CMS</strong>
-      <br><br>
-      <sub>Shopify & WordPress expert<br/>building high-converting<br/>online stores</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/extension-cord.png" width="80px" alt="Extension"/>
-      <br><br>
-      <strong>Chrome Extensions</strong>
-      <br><br>
-      <sub>Developing custom browser<br/>extensions for automation<br/>and productivity</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/api.png" width="80px" alt="API"/>
-      <br><br>
-      <strong>Backend & APIs</strong>
-      <br><br>
-      <sub>Robust RESTful & GraphQL<br/>APIs with efficient<br/>data architecture</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/cloud.png" width="80px" alt="DevOps"/>
-      <br><br>
-      <strong>DevOps & Cloud</strong>
-      <br><br>
-      <sub>Docker, CI/CD pipelines,<br/>and automated deployment<br/>strategies</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/speed.png" width="80px" alt="Performance"/>
-      <br><br>
-      <strong>Performance</strong>
-      <br><br>
-      <sub>Optimization, caching,<br/>and Core Web Vitals<br/>improvement</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/database.png" width="80px" alt="Database"/>
-      <br><br>
-      <strong>Database Design</strong>
-      <br><br>
-      <sub>SQL & NoSQL optimization,<br/>schema design, and<br/>data integrity</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/web-design.png" width="80px" alt="UI/UX"/>
-      <br><br>
-      <strong>UI/UX Excellence</strong>
-      <br><br>
-      <sub>Responsive, accessible,<br/>and pixel-perfect<br/>user interfaces</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+| Service | Technologies | Description | Ideal For |
+|:--------|:-------------|:------------|:----------|
+| ⚛️ **Modern Frontend Development** | React, Next.js, TypeScript | Fast, clean, and scalable frontend applications with focus on performance, accessibility, and maintainable component architecture | Web apps, Dashboards, Landing pages |
+| 🔧 **Full-Stack Application Development** | Node.js, Express, MongoDB, MySQL | Complete end-to-end web applications from UI to backend logic and databases. Production-ready systems built for real-world scale | Startups, MVPs, Enterprise apps |
+| 🚀 **SaaS Platform Development** | Next.js, Firebase, Supabase, Auth | Production-ready SaaS platforms with user authentication, role-based access, dashboards, and scalable infrastructure | SaaS products, Subscription platforms |
+| ⚡ **Backend & API Development** | Node.js, Express, REST APIs | Secure, efficient APIs connecting frontend with databases and third-party services. Well-structured and optimized for performance | API-first architectures, Integrations |
+| 🔥 **Firebase & Supabase Solutions** | Firebase, Supabase, Serverless | Fast MVPs and scalable backend solutions with real-time data, authentication, and serverless functions | Rapid prototypes, Real-time apps |
+| 📝 **WordPress Custom Development** | WordPress, Custom Themes, PHP | Custom WordPress websites without heavy pre-made themes. Lightweight, SEO-friendly, and tailored to your brand | Business sites, Blogs, Portfolios |
+| ✨ **Animation & Interactive Experiences** | GSAP, Framer Motion, Lottie | Smooth animations and micro-interactions that enhance UX. Scroll animations, dynamic motion, and polished interfaces | Marketing sites, Product showcases |
+| 📈 **Performance & SEO Optimization** | Core Web Vitals, SEO, UX | Optimize speed, animation performance, user flow, and search visibility. Faster experience that converts better | Existing sites needing improvement |
 
 <br/>
 
