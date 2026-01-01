@@ -123,23 +123,7 @@ Optimizing:
 
 
 
-<!-- What I Offer -->
-<h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
-  What I Offer
-</h2>
 
-| Service | Technologies | Description | Ideal For |
-|:--------|:-------------|:------------|:----------|
-| ⚛️ **Modern Frontend Development** | React, Next.js, TypeScript | Fast, clean, and scalable frontend applications with focus on performance, accessibility, and maintainable component architecture | Web apps, Dashboards, Landing pages |
-| 🔧 **Full-Stack Application Development** | Node.js, Express, MongoDB, MySQL | Complete end-to-end web applications from UI to backend logic and databases. Production-ready systems built for real-world scale | Startups, MVPs, Enterprise apps |
-| 🚀 **SaaS Platform Development** | Next.js, Firebase, Supabase, Auth | Production-ready SaaS platforms with user authentication, role-based access, dashboards, and scalable infrastructure | SaaS products, Subscription platforms |
-| ⚡ **Backend & API Development** | Node.js, Express, REST APIs | Secure, efficient APIs connecting frontend with databases and third-party services. Well-structured and optimized for performance | API-first architectures, Integrations |
-| 🔥 **Firebase & Supabase Solutions** | Firebase, Supabase, Serverless | Fast MVPs and scalable backend solutions with real-time data, authentication, and serverless functions | Rapid prototypes, Real-time apps |
-| 📝 **WordPress Custom Development** | WordPress, Custom Themes, PHP | Custom WordPress websites without heavy pre-made themes. Lightweight, SEO-friendly, and tailored to your brand | Business sites, Blogs, Portfolios |
-| ✨ **Animation & Interactive Experiences** | GSAP, Framer Motion, Lottie | Smooth animations and micro-interactions that enhance UX. Scroll animations, dynamic motion, and polished interfaces | Marketing sites, Product showcases |
-| 📈 **Performance & SEO Optimization** | Core Web Vitals, SEO, UX | Optimize speed, animation performance, user flow, and search visibility. Faster experience that converts better | Existing sites needing improvement |
-<br/>
 
 
 
@@ -410,26 +394,44 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 
 <div align="center">
 
-### 🚀 SaaS & Web Applications
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css" />
-</p>
-
-### 🛒 E-commerce & CMS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=shopify,wordpress,elementor,drupal,php,mysql" />
-</p>
-
-### ⚙️ Backend, Database & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,mongodb,postgres,firebase,supabase,prisma" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,tailwind" />
-</p>
+<table border="1" width="100%">
+    <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br />JavaScript</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /><br />TypeScript</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br />React</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" /><br />Next.js</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br />Node.js</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /><br />Express</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /><br />Tailwind</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /><br />HTML5</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /><br />CSS3</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" /><br />PHP</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" /><br />Laravel</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" /><br />WordPress</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=shopify&theme=dark" width="48" /><br />Shopify</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /><br />MySQL</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /><br />MongoDB</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /><br />PostgreSQL</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" /><br />Firebase</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" /><br />Supabase</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="48" /><br />Prisma</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /><br />Docker</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br />AWS</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="48" /><br />DigitalOcean</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" /><br />Vercel</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" /><br />Netlify</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br />Git</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br />GitHub</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /><br />Figma</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /><br />Linux</td>
+    </tr>
+</table>
 
 </div>
 
