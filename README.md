@@ -365,9 +365,6 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 
 </div>
 
-<br/>
-<br/>
-<br/>
 <div align="center">
   <sub>Clean code is written by someone who cares — Omar</sub>
 </div>
