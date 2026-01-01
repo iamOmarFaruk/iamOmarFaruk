@@ -141,7 +141,7 @@ Optimizing:
 <div align="center">
 
 <!-- Row 1 -->
-<table>
+<table border="0">
 <tr>
 <td align="center" width="50%">
 
@@ -201,7 +201,7 @@ Robust full-stack apps with secure backend architectures and seamless **client-s
 </table>
 
 <!-- Row 2 -->
-<table>
+<table border="0">
 <tr>
 <td align="center" width="50%">
 
@@ -261,7 +261,7 @@ Efficient REST and GraphQL APIs optimized for speed, security, and **scalability
 </table>
 
 <!-- Row 3 -->
-<table>
+<table border="0">
 <tr>
 <td align="center" width="50%">
 
@@ -321,12 +321,11 @@ Custom themes and plugins for speed, SEO, and **business growth** without bloate
 </table>
 
 <!-- Row 4 -->
-<table>
+<table border="0">
 <tr>
 <td align="center" width="50%">
 
 <table width="100%">
-<tr>
 <tr>
 <td align="center">
 
