@@ -395,7 +395,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 
 <div align="center">
 
-<table border="1" width="100%">
+<table border="1" width="100%" cellpadding="20">
     <tr>
         <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br />JavaScript</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /><br />TypeScript</td>
