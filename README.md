@@ -219,7 +219,7 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 
 <div align="center">
 
-<table border="1" width="100%" cellpadding="20">
+<table border="0" width="100%" cellpadding="20">
     <tr>
         <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br />JavaScript</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /><br />TypeScript</td>
