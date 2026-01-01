@@ -44,77 +44,33 @@
 <br/>
 
 <!-- About Me Section -->
+<div align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
+  <br/>
+  <strong><span style="font-size: 24px;">About Me & Expertise</span></strong>
+</div>
+
+<p align="center">
+  <sub>Transforming complex problems into elegant, scalable digital solutions</sub>
+</p>
+
+<br/>
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
+I don't just write code; **I engineer digital engines for business growth.** In a world crowded with developers, I stand out by bridging the gap between complex technical requirements and your strategic goals.
 
-```javascript
-const omarFaruk = {
-    role: "Full-Stack Developer & CMS Expert",
-    location: "Bangladesh 🇧🇩",
-    experience: "5+ Years",
-    availability: "Open for Opportunities",
+Whether you need a SaaS platform built from scratch, a high-traffic e-commerce overhaul, or a custom automation tool, I bring **12+ years of battle-tested expertise** to the table. I treat your project not as a gig, but as a partnership—delivering secure, scalable, and high-performance solutions that work flawlessly from day one.
 
-    code: {
-        frontend: ["React", "Next.js", "Tailwind CSS", "TypeScript"],
-        backend: ["Node.js", "Express", "Laravel", "Firebase"],
-        cms: ["Shopify", "WordPress", "WooCommerce", "Drupal"],
-        database: ["PostgreSQL", "MongoDB", "Supabase"]
-    },
+<br/>
 
-    specialties: {
-        types: ["SaaS", "E-commerce", "Custom Tools"],
-        focus: ["Performance", "Scalability", "Clean Architecture"],
-        extra: ["Chrome Extensions", "Automation", "DevOps"]
-    },
-
-    mission: "Solving complex business problems with elegant code",
-    
-    workStyle: [
-        "Client-First Mindset",
-        "Quality Over Speed",
-        "Transparent Communication"
-    ]
-};
-
-console.log(omarFaruk.mission);
-// Output: Solving complex business problems with elegant code
-```
+**Let's stop talking about 'specs' and start building your competitive advantage.**
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
-</div>
-
-### 📊 Quick Stats
-
-<div align="center">
-
-| 💼 Projects | ⭐ Rating | 🌍 Clients | ⚡ Speed |
-|:---:|:---:|:---:|:---:|
-| **50+** | **5.0/5.0** | **15+ Countries** | **24 Hours** |
-
-</div>
-
-### 🎯 What I Do
-
-```yaml
-Building:
-  - Modern SaaS Applications
-  - High-Converting E-commerce Stores
-  - Custom Chrome Extensions
-  - Scalable API Architectures
-
-Optimizing:
-  - Web Performance (Core Web Vitals)
-  - SEO & Accessibility
-  - Deployment Pipelines (CI/CD)
-```
-
+<td width="40%" align="center">
+  <img src="./assets/omar_zoomed.jpeg" width="200" height="200" style="border-radius: 50%; border: 5px solid #007BFF;" alt="Omar Faruk - The Man of Code"/>
 </td>
 </tr>
 </table>
