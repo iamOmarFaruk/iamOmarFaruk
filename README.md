@@ -443,101 +443,51 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
   Featured Projects
 </h2>
 
-### 📱 LifeCherry Frontend
-<img src="./assets/projects/lifecherry-preview.png" alt="LifeCherry Preview" width="100%" />
-
-**The Challenge:** Build an intuitive frontend for a social health platform that makes wellness tracking feel natural and engaging.
-
-**The Solution:** Designed and developed a React-based interface focused on smooth user flows, clear data visualization, and responsive design.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/-React-0b0f14?style=flat-square&logo=react&logoColor=22d3ee)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee)
-![REST API](https://img.shields.io/badge/-REST%20API-0b0f14?style=flat-square&logo=fastapi&logoColor=22d3ee)
-
-[💻 View Source Code](https://github.com/iamOmarFaruk/LifeCherry-frontend)
-
-<br/>
-
-### 📊 EcoTrack Dashboard
-<img src="./assets/projects/ecotrack-preview.png" alt="EcoTrack Preview" width="100%" />
-
-**The Challenge:** Create a comprehensive dashboard for environmental data tracking with clear reporting.
-
-**The Solution:** Built a React dashboard with clean UI components that transform complex environmental data into actionable insights.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/-React-0b0f14?style=flat-square&logo=react&logoColor=22d3ee)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0b0f14?style=flat-square&logo=javascript&logoColor=22d3ee)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee)
-
-[💻 View Source Code](https://github.com/iamOmarFaruk/EcoTrack-Front)
-
-<br/>
-
-
-
-<!-- Professional Services -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" height="28px" alt="Services"/>
-  Development Standards & Support
-</h2>
-
-<p align="center">
-  All services include comprehensive documentation, CI/CD setup, and <b>30-day post-launch technical support</b>.
-</p>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-  <br/>
-  <img src="https://img.icons8.com/fluency/48/layers.png" width="40px"/>
-  <br/>
-  <strong>Custom Architecture</strong>
-  <p align="center"><sub>Scalable React/Next.js systems built with clean code principles.</sub></p>
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-  <br/>
-  <img src="https://img.icons8.com/fluency/48/shopping-cart.png" width="40px"/>
-  <br/>
-  <strong>E-commerce Mastery</strong>
-  <p align="center"><sub>Conversion-focused Shopify, WooCommerce, and custom checkout solutions.</sub></p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-  <br/>
-  <img src="https://img.icons8.com/fluency/48/api.png" width="40px"/>
-  <br/>
-  <strong>API & Backend</strong>
-  <p align="center"><sub>Seamless third-party integrations and high-performance server logic.</sub></p>
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-  <br/>
-  <img src="https://img.icons8.com/fluency/48/automation.png" width="40px"/>
-  <br/>
-  <strong>DevOps & Scaling</strong>
-  <p align="center"><sub>Automated backups, CI/CD pipelines, and cloud-native deployments.</sub></p>
-</div>
-</td>
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://github.com/iamOmarFaruk/LifeCherry-frontend/raw/main/public/screenshot.png" alt="LifeCherry Preview" width="100%" />
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="left">LifeCherry Frontend</h3>
+      <p>
+        <b>The Challenge:</b> Build an intuitive frontend for a social health platform that makes wellness tracking feel natural and engaging.
+      </p>
+      <p>
+        <b>The Solution:</b> Designed and developed a React-based interface focused on smooth user flows, clear data visualization, and responsive design.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br/>
+        <img src="https://img.shields.io/badge/-React-0b0f14?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/-REST%20API-0b0f14?style=flat-square&logo=fastapi&logoColor=22d3ee" alt="REST API" />
+      </p>
+      <a href="https://github.com/iamOmarFaruk/LifeCherry-frontend">💻 View Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://github.com/iamOmarFaruk/EcoTrack-Front/raw/main/ecotrack-screenshot.png" alt="EcoTrack Preview" width="100%" />
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="left">EcoTrack Dashboard</h3>
+      <p>
+        <b>The Challenge:</b> Create a comprehensive dashboard for environmental data tracking with clear reporting.
+      </p>
+      <p>
+        <b>The Solution:</b> Built a React dashboard with clean UI components that transform complex environmental data into actionable insights.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br/>
+        <img src="https://img.shields.io/badge/-React-0b0f14?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
+        <img src="https://img.shields.io/badge/-JavaScript-0b0f14?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JS" />
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind" />
+      </p>
+      <a href="https://github.com/iamOmarFaruk/EcoTrack-Front">💻 View Source Code</a>
+    </td>
+  </tr>
 </table>
 
-</div>
-
-### 🔧 Also Available: Maintenance & Chrome Extensions
-Ongoing support, bug fixes, feature enhancements, and custom browser extension development.
-
-<br/>
 
 
 
@@ -583,24 +533,7 @@ Ongoing support, bug fixes, feature enhancements, and custom browser extension d
 
 
 
-<!-- Github Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px" height="28px"/>
-  GitHub Analytics
-</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamOmarFaruk&show_icons=true&hide_rank=true&bg_color=0b0f14&title_color=0ea5a5&text_color=cbd5e1&icon_color=0ea5a5&border_color=1f2937">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamOmarFaruk&show_icons=true&hide_rank=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0ea5a4&border_color=e2e8f0">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iamOmarFaruk&background=0b0f14&border=1f2937&ring=0ea5a5&fire=0ea5a5&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b">
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=iamOmarFaruk&background=ffffff&border=e2e8f0&ring=0ea5a4&fire=0ea5a4&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=475569&sideLabels=475569&dates=64748b">
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <sub>Clean code is written by someone who cares — Omar</sub>
