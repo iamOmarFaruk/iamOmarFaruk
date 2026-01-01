@@ -499,30 +499,30 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%">
-
-> "Very good service. He problem solved really well and gave us a better solution than we had hoped for! I will definitely use again."
->
-> **— Alex Steffan**
-
-</td>
-<td width="33%">
-
-> "Omar is a great React, Next.js, and Express (MERN) expert and can build stunning websites. We're always impressed with the quality."
->
-> **— Corinne Fisher**
-
-</td>
-<td width="33%">
-
-> "Omar did a remarkable job on my site and communicated well. My regular developer might not have been able to do as good a job as him."
->
-> **— Udam Epa**
-
-</td>
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/clients/alex.png" width="70px" style="border-radius: 50%" alt="Alex Steffan"/>
+      <br/><br/>
+      "Very good service. He problem solved really well and gave us a better solution than we had hoped for! I will definitely use again."
+      <br/><br/>
+      <b>— Alex Steffan</b>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/clients/corinne.webp" width="70px" style="border-radius: 50%" alt="Corinne Fisher"/>
+      <br/><br/>
+      "Omar is a great React, Next.js, and Express (MERN) expert and can build stunning websites. We're always impressed with the quality."
+      <br/><br/>
+      <b>— Corinne Fisher</b>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/clients/udam.png" width="70px" style="border-radius: 50%" alt="Udam Epa"/>
+      <br/><br/>
+      "Omar did a remarkable job on my site and communicated well. My regular developer might not have been able to do as good a job as him."
+      <br/><br/>
+      <b>— Udam Epa</b>
+    </td>
+  </tr>
 </table>
 
 [![Watch Video Testimonial](https://img.shields.io/badge/-▶️%20Watch%20Video%20Testimonial-0b0f14?style=for-the-badge&logo=youtube&logoColor=22d3ee)](https://youtu.be/aGL9-PHO29M)
