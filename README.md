@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-<!-- Status Badges -->
+<!-- Status Badges & Social Links -->
 <p align="center">
   <a href="https://www.google.com/maps/place/Bangladesh">
     <img src="https://img.shields.io/badge/-Bangladesh-000000?style=for-the-badge&logo=googlemaps&logoColor=white">
@@ -26,10 +26,6 @@
   <a href="mailto:omabg.bd@gmail.com">
     <img src="https://img.shields.io/badge/-Get%20In%20Touch-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-
-<!-- Social Links -->
-<p align="center">
   <a href="https://www.linkedin.com/in/omar-expert-webdeveloper/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
