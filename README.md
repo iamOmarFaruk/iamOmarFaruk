@@ -6,7 +6,7 @@
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0077BE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Building+Scalable+High-Performance+Web+Solutions;Expert+in+React,+Next.js,+and+Modern+Tech+Stacks;Mastering+Shopify,+WordPress,+and+CMS+Platforms;Developing+Custom+Chrome+Extensions+%26+Tools;Turning+Complex+Problems+into+Elegant+Code&v=1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Building+Scalable+High-Performance+Web+Solutions;Expert+in+React,+Next.js,+and+Modern+Tech+Stacks;Mastering+Shopify,+WordPress,+and+CMS+Platforms;Developing+Custom+Chrome+Extensions+%26+Tools;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
 </div>
 
 <br/>
