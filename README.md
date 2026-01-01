@@ -495,7 +495,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
   </tr>
 </table>
 
-[![Watch Video Testimonial](https://img.shields.io/badge/-▶️%20Watch%20Video%20Testimonial-0b0f14?style=for-the-badge&logo=youtube&logoColor=22d3ee)](https://youtu.be/aGL9-PHO29M)
+[![Watch Video Testimonial](https://img.shields.io/badge/-Watch%20Video%20Testimonial-0b0f14?style=for-the-badge&logo=youtube&logoColor=22d3ee)](https://youtu.be/aGL9-PHO29M)
 
 </div>
 
