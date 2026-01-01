@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%">
   <defs>
-    <!-- Neon glow filter -->
+    <!-- Neon glow filter for electrons only -->
     <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
       <feMerge>
@@ -10,12 +10,12 @@
       </feMerge>
     </filter>
     
-    <!-- Animated gradient for electron flow -->
+    <!-- Animated gradient for electron flow - Cyan -->
     <linearGradient id="electronFlow1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="transparent">
         <animate attributeName="offset" values="-0.3;1" dur="3s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="5%" stop-color="#00ffff">
+      <stop offset="5%" stop-color="#00d4ff">
         <animate attributeName="offset" values="-0.25;1.05" dur="3s" repeatCount="indefinite"/>
       </stop>
       <stop offset="10%" stop-color="transparent">
@@ -27,7 +27,7 @@
       <stop offset="0%" stop-color="transparent">
         <animate attributeName="offset" values="-0.3;1" dur="2.5s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="5%" stop-color="#00ffff">
+      <stop offset="5%" stop-color="#00d4ff">
         <animate attributeName="offset" values="-0.25;1.05" dur="2.5s" repeatCount="indefinite"/>
       </stop>
       <stop offset="10%" stop-color="transparent">
@@ -39,7 +39,7 @@
       <stop offset="0%" stop-color="transparent">
         <animate attributeName="offset" values="-0.3;1" dur="4s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="5%" stop-color="#00ff88">
+      <stop offset="5%" stop-color="#00cc88">
         <animate attributeName="offset" values="-0.25;1.05" dur="4s" repeatCount="indefinite"/>
       </stop>
       <stop offset="10%" stop-color="transparent">
@@ -51,7 +51,7 @@
       <stop offset="0%" stop-color="transparent">
         <animate attributeName="offset" values="-0.3;1" dur="3.5s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="5%" stop-color="#ff00ff">
+      <stop offset="5%" stop-color="#9966ff">
         <animate attributeName="offset" values="-0.25;1.05" dur="3.5s" repeatCount="indefinite"/>
       </stop>
       <stop offset="10%" stop-color="transparent">
@@ -63,27 +63,20 @@
       <stop offset="0%" stop-color="transparent">
         <animate attributeName="offset" values="-0.3;1" dur="2.8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="5%" stop-color="#00ffff">
+      <stop offset="5%" stop-color="#00d4ff">
         <animate attributeName="offset" values="-0.25;1.05" dur="2.8s" repeatCount="indefinite"/>
       </stop>
       <stop offset="10%" stop-color="transparent">
         <animate attributeName="offset" values="-0.2;1.1" dur="2.8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
-    
-    <!-- Background gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a0a"/>
-      <stop offset="50%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#0f0f0f"/>
-    </linearGradient>
   </defs>
   
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+  <!-- White Background -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
   
-  <!-- Circuit Board Base Traces (dark gray) -->
-  <g stroke="#2a2a2a" stroke-width="2" fill="none">
+  <!-- Circuit Board Base Traces (light gray) -->
+  <g stroke="#e0e0e0" stroke-width="2" fill="none">
     <!-- Left side circuits -->
     <path d="M0,50 H150 L180,80 H250"/>
     <path d="M0,100 H100 V150 H200"/>
@@ -133,8 +126,8 @@
     <path d="M850,300 V240 L820,210 H760" stroke="url(#electronFlow4)"/>
   </g>
   
-  <!-- Circuit Nodes (connection points) -->
-  <g fill="#333">
+  <!-- Circuit Nodes (connection points) - light gray -->
+  <g fill="#d0d0d0">
     <!-- Left nodes -->
     <circle cx="150" cy="50" r="5"/>
     <circle cx="250" cy="80" r="5"/>
@@ -164,38 +157,39 @@
     <circle cx="730" cy="220" r="5"/>
   </g>
   
-  <!-- Pulsing nodes with glow -->
+  <!-- Pulsing nodes with glow (only these glow) -->
   <g filter="url(#neonGlow)">
-    <circle cx="250" cy="80" r="4" fill="#00ffff">
+    <circle cx="250" cy="80" r="4" fill="#00d4ff">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="950" cy="80" r="4" fill="#00ff88">
+    <circle cx="950" cy="80" r="4" fill="#00cc88">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="200" cy="150" r="4" fill="#ff00ff">
+    <circle cx="200" cy="150" r="4" fill="#9966ff">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1000" cy="150" r="4" fill="#00ffff">
+    <circle cx="1000" cy="150" r="4" fill="#00d4ff">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="480" cy="90" r="4" fill="#00ff88">
+    <circle cx="480" cy="90" r="4" fill="#00cc88">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="730" cy="220" r="4" fill="#ff00ff">
+    <circle cx="730" cy="220" r="4" fill="#9966ff">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/>
     </circle>
   </g>
   
-  <!-- Main Text -->
-  <text x="600" y="130" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="bold" fill="white" filter="url(#neonGlow)">
+  <!-- Main Text - Black, no glow -->
+  <text x="600" y="130" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="bold" fill="#1a1a1a">
     Omar Faruk
   </text>
   
-  <!-- Subtitle -->
-  <text x="600" y="175" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#aaaaaa">
+  <!-- Subtitle - Dark gray -->
+  <text x="600" y="175" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#555555">
     Full-Stack Developer • CMS Expert • DevOps Specialist
   </text>
   
-  <!-- Decorative line under text -->
+  <!-- Decorative line under text with electron animation -->
+  <line x1="350" y1="195" x2="850" y2="195" stroke="#e0e0e0" stroke-width="2"/>
   <line x1="350" y1="195" x2="850" y2="195" stroke="url(#electronFlow1)" stroke-width="2" filter="url(#neonGlow)"/>
 </svg>
