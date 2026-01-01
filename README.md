@@ -327,23 +327,24 @@ Custom themes and plugins for speed, SEO, and **business growth** without bloate
 
 <table width="100%">
 <tr>
+<tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/video-editing.png" width="65px"/>
+<img src="https://img.icons8.com/3d-fluency/94/layers.png" width="65px"/>
 
-### Motion Design
+### Laravel Ecosystem
 
-<img src="https://skillicons.dev/icons?i=ae,figma,css,js&theme=dark" height="30"/>
-
-<br/>
-
-Creating **immersive experiences** with smooth animations, micro-interactions, and motion design.
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,react&theme=dark" height="30"/>
 
 <br/>
 
-![Marketing](https://img.shields.io/badge/Marketing_Sites-000000?style=flat-square)
-![Showcases](https://img.shields.io/badge/Showcases-1a1a2e?style=flat-square)
-![Interactive](https://img.shields.io/badge/Interactive_UX-16213e?style=flat-square)
+Building robust apps with **Inertia.js**, Livewire, and scalable APIs using modern frontend stacks.
+
+<br/>
+
+![Inertia](https://img.shields.io/badge/Inertia.js-000000?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-1a1a2e?style=flat-square)
+![API](https://img.shields.io/badge/Rest_API-16213e?style=flat-square)
 
 </td>
 </tr>
