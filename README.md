@@ -14,9 +14,7 @@
 
 <!-- Status Badges & Social Links -->
 <p align="center">
-  <a href="https://www.google.com/maps/place/Bangladesh">
-    <img src="https://img.shields.io/badge/-Bangladesh-000000?style=for-the-badge&logo=googlemaps&logoColor=white">
-  </a>
+ 
   <a href="https://www.upwork.com/freelancers/~0139a09420769b0b8c">
     <img src="https://img.shields.io/badge/-Available%20for%20Hire-333333?style=for-the-badge&logo=handshake&logoColor=white">
   </a>
@@ -28,9 +26,6 @@
   </a>
   <a href="https://www.linkedin.com/in/omar-expert-webdeveloper/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/iamOmarFaruk">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://x.com/omarfaruksarkar">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
