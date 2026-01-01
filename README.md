@@ -1,8 +1,8 @@
 
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,333333&height=280&section=header&text=Omar%20Faruk&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20CMS%20Expert%20%E2%80%A2%20DevOps%20Specialist&descSize=20&descAlignY=53&animation=twinkling" width="100%"/>
+<!-- Animated Circuit Board Header -->
+<img src="./assets/header-circuit.svg" width="100%" alt="Omar Faruk - Full-Stack Developer • CMS Expert • DevOps Specialist"/>
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
