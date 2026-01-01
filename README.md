@@ -143,11 +143,300 @@ Optimizing:
 | 📝 **WordPress Custom Development** | WordPress, Custom Themes, PHP | Custom WordPress websites without heavy pre-made themes. Lightweight, SEO-friendly, and tailored to your brand | Business sites, Blogs, Portfolios |
 | ✨ **Animation & Interactive Experiences** | GSAP, Framer Motion, Lottie | Smooth animations and micro-interactions that enhance UX. Scroll animations, dynamic motion, and polished interfaces | Marketing sites, Product showcases |
 | 📈 **Performance & SEO Optimization** | Core Web Vitals, SEO, UX | Optimize speed, animation performance, user flow, and search visibility. Faster experience that converts better | Existing sites needing improvement |
-
 <br/>
 
 <!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- Services Card View -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
+  Premium Services & Solutions
+</h2>
+
+<p align="center">
+  <sub>Delivering excellence through modern technologies and best practices</sub>
+</p>
+
+<div align="center">
+
+<!-- Row 1 -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="65px"/>
+
+### Frontend Excellence
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" height="30"/>
+
+<br/>
+
+Building **lightning-fast**, accessible, and scalable user interfaces with Core Web Vitals focus.
+
+<br/>
+
+![SaaS](https://img.shields.io/badge/SaaS-000000?style=flat-square)
+![Dashboards](https://img.shields.io/badge/Dashboards-1a1a2e?style=flat-square)
+![Landing](https://img.shields.io/badge/Landing_Pages-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/server.png" width="65px"/>
+
+### Full-Stack Solutions
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" height="30"/>
+
+<br/>
+
+Robust full-stack apps with secure backend architectures and seamless **client-server integration**.
+
+<br/>
+
+![MVPs](https://img.shields.io/badge/MVPs-000000?style=flat-square)
+![Enterprise](https://img.shields.io/badge/Enterprise-1a1a2e?style=flat-square)
+![Tools](https://img.shields.io/badge/Internal_Tools-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Row 2 -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/cloud.png" width="65px"/>
+
+### SaaS Architecture
+
+<img src="https://skillicons.dev/icons?i=nextjs,firebase,supabase,docker&theme=dark" height="30"/>
+
+<br/>
+
+Production-ready SaaS platforms with **multi-tenancy**, role-based access, and cloud deployments.
+
+<br/>
+
+![Subscriptions](https://img.shields.io/badge/Subscriptions-000000?style=flat-square)
+![B2B](https://img.shields.io/badge/B2B_Apps-1a1a2e?style=flat-square)
+![Marketplaces](https://img.shields.io/badge/Marketplaces-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/api.png" width="65px"/>
+
+### API Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma&theme=dark" height="30"/>
+
+<br/>
+
+Efficient REST and GraphQL APIs optimized for speed, security, and **scalability**.
+
+<br/>
+
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square)
+![Integrations](https://img.shields.io/badge/Integrations-1a1a2e?style=flat-square)
+![Data_Sync](https://img.shields.io/badge/Data_Sync-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Row 3 -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/database.png" width="65px"/>
+
+### Real-time BaaS
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,js,ts&theme=dark" height="30"/>
+
+<br/>
+
+Rapid development with serverless backends, **real-time sync**, and secure cloud functions.
+
+<br/>
+
+![Real-time](https://img.shields.io/badge/Real--time_Apps-000000?style=flat-square)
+![Chat](https://img.shields.io/badge/Chat_Systems-1a1a2e?style=flat-square)
+![MVPs](https://img.shields.io/badge/Fast_MVPs-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/wordpress.png" width="65px"/>
+
+### WordPress Custom
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,mysql,css&theme=dark" height="30"/>
+
+<br/>
+
+Custom themes and plugins for speed, SEO, and **business growth** without bloated builders.
+
+<br/>
+
+![Business](https://img.shields.io/badge/Business_Sites-000000?style=flat-square)
+![Blogs](https://img.shields.io/badge/Blogs-1a1a2e?style=flat-square)
+![Themes](https://img.shields.io/badge/Custom_Themes-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Row 4 -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/video-editing.png" width="65px"/>
+
+### Motion Design
+
+<img src="https://skillicons.dev/icons?i=ae,figma,css,js&theme=dark" height="30"/>
+
+<br/>
+
+Creating **immersive experiences** with smooth animations, micro-interactions, and motion design.
+
+<br/>
+
+![Marketing](https://img.shields.io/badge/Marketing_Sites-000000?style=flat-square)
+![Showcases](https://img.shields.io/badge/Showcases-1a1a2e?style=flat-square)
+![Interactive](https://img.shields.io/badge/Interactive_UX-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="65px"/>
+
+### Performance & SEO
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" height="30"/>
+
+<br/>
+
+Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performance.
+
+<br/>
+
+![Audits](https://img.shields.io/badge/Audits-000000?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance-1a1a2e?style=flat-square)
+![SEO](https://img.shields.io/badge/SEO_Strategy-16213e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<br/>
 
 <!-- Tech Stack Section -->
 <h2 align="left">
@@ -229,53 +518,59 @@ Optimizing:
 <!-- Professional Services -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" height="28px" alt="Services"/>
-  Professional Services
+  Development Standards & Support
 </h2>
 
-All services include code documentation, knowledge transfer, and **30-day post-launch support**.
+<p align="center">
+  All services include comprehensive documentation, CI/CD setup, and <b>30-day post-launch technical support</b>.
+</p>
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
-<td width="50%">
-
-### 🎨 Custom Web Apps
-- Custom React/Next.js architecture
-- Performance optimization (90+ Lighthouse)
-- SEO-ready implementation
-- **Ideal For:** Startups, SaaS, Dashboards
-
+<td width="50%" valign="top">
+<div align="center">
+  <br/>
+  <img src="https://img.icons8.com/fluency/48/layers.png" width="40px"/>
+  <br/>
+  <strong>Custom Architecture</strong>
+  <p align="center"><sub>Scalable React/Next.js systems built with clean code principles.</sub></p>
+</div>
 </td>
-<td width="50%">
-
-### 🛒 E-commerce Solutions
-- Custom Shopify & WordPress themes
-- WooCommerce with payment mastery
-- Conversion-focused UX
-- **Ideal For:** Online retailers, Digital products
-
+<td width="50%" valign="top">
+<div align="center">
+  <br/>
+  <img src="https://img.icons8.com/fluency/48/shopping-cart.png" width="40px"/>
+  <br/>
+  <strong>E-commerce Mastery</strong>
+  <p align="center"><sub>Conversion-focused Shopify, WooCommerce, and custom checkout solutions.</sub></p>
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### ⚙️ Backend & API
-- RESTful & GraphQL API development
-- Database design (SQL/NoSQL)
-- Auth systems & Third-party integrations
-- **Ideal For:** API-first architectures
-
+<td width="50%" valign="top">
+<div align="center">
+  <br/>
+  <img src="https://img.icons8.com/fluency/48/api.png" width="40px"/>
+  <br/>
+  <strong>API & Backend</strong>
+  <p align="center"><sub>Seamless third-party integrations and high-performance server logic.</sub></p>
+</div>
 </td>
-<td width="50%">
-
-### 🚀 DevOps & Deployment
-- CI/CD with GitHub Actions
-- Docker containerization
-- Automatic Cloud deployment
-- **Ideal For:** Automation & Scaling
-
+<td width="50%" valign="top">
+<div align="center">
+  <br/>
+  <img src="https://img.icons8.com/fluency/48/automation.png" width="40px"/>
+  <br/>
+  <strong>DevOps & Scaling</strong>
+  <p align="center"><sub>Automated backups, CI/CD pipelines, and cloud-native deployments.</sub></p>
+</div>
 </td>
 </tr>
 </table>
+
+</div>
 
 ### 🔧 Also Available: Maintenance & Chrome Extensions
 Ongoing support, bug fixes, feature enhancements, and custom browser extension development.
