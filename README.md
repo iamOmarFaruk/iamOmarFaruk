@@ -411,7 +411,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 <table border="0" width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="https://github.com/iamOmarFaruk/LifeCherry-frontend/raw/main/public/screenshot.png" alt="LifeCherry Preview" width="100%" />
+      <img src="https://github.com/iamOmarFaruk/LifeCherry-frontend/raw/main/public/screenshot.png" alt="LifeCherry Preview" width="100%" style="border-radius: 12px;"/>
     </td>
     <td width="45%" valign="top">
       <h3 align="left">LifeCherry Frontend</h3>
@@ -432,7 +432,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
   </tr>
   <tr>
     <td width="55%" align="center">
-      <img src="https://github.com/iamOmarFaruk/EcoTrack-Front/raw/main/ecotrack-screenshot.png" alt="EcoTrack Preview" width="100%" />
+      <img src="https://github.com/iamOmarFaruk/EcoTrack-Front/raw/main/ecotrack-screenshot.png" alt="EcoTrack Preview" width="100%" style="border-radius: 12px;"/>
     </td>
     <td width="45%" valign="top">
       <h3 align="left">EcoTrack Dashboard</h3>
