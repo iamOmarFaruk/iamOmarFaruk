@@ -602,9 +602,7 @@ Ongoing support, bug fixes, feature enhancements, and custom browser extension d
 
 <br/>
 
-<!-- Footer Capsule -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,333333&height=120&section=footer" width="100%"/>
-  <sub>Clean code is written by someone who cares.</sub>
+  <sub>Clean code is written by someone who cares — Omar</sub>
 </div>
 
