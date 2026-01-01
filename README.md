@@ -43,7 +43,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <img src="./assets/icons/source-code-blue.png" width="40"/>
   <br/>
   <strong><span style="font-size: 30px;">About Me & Expertise</span></strong>
   <br/>
@@ -80,7 +80,7 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 <!-- Services Card View -->
 <!-- Services Card View -->
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <img src="./assets/icons/source-code-blue.png" width="40"/>
   <br/>
   <strong><span style="font-size: 30px;">Premium Services & Solutions</span></strong>
   <br/>
@@ -103,7 +103,7 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="65px"/>
+<img src="./assets/icons/frontend_3d.png" width="65px"/>
 
 ### Frontend Excellence
 
@@ -130,7 +130,7 @@ Building **lightning-fast**, accessible, and scalable user interfaces with Core 
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/server.png" width="65px"/>
+<img src="./assets/icons/backend_3d.png" width="65px"/>
 
 ### Full-Stack Solutions
 
@@ -163,7 +163,7 @@ Robust full-stack apps with secure backend architectures and seamless **client-s
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/cloud.png" width="65px"/>
+<img src="./assets/icons/cloud_3d.png" width="65px"/>
 
 ### SaaS Architecture
 
@@ -190,7 +190,7 @@ Production-ready SaaS platforms with **multi-tenancy**, role-based access, and c
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/api.png" width="65px"/>
+<img src="./assets/icons/api_3d.png" width="65px"/>
 
 ### API Development
 
@@ -223,7 +223,7 @@ Efficient REST and GraphQL APIs optimized for speed, security, and **scalability
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/database.png" width="65px"/>
+<img src="./assets/icons/database_3d.png" width="65px"/>
 
 ### Real-time BaaS
 
@@ -250,7 +250,7 @@ Rapid development with serverless backends, **real-time sync**, and secure cloud
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/wordpress.png" width="65px"/>
+<img src="./assets/icons/wordpress_3d.png" width="65px"/>
 
 ### WordPress Custom
 
@@ -283,7 +283,7 @@ Custom themes and plugins for speed, SEO, and **business growth** without bloate
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/layers.png" width="65px"/>
+<img src="./assets/icons/layers_3d.png" width="65px"/>
 
 ### Laravel Ecosystem
 
@@ -310,7 +310,7 @@ Building robust apps with **Inertia.js**, Livewire, and scalable APIs using mode
 <tr>
 <td align="center">
 
-<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="65px"/>
+<img src="./assets/icons/rocket_3d.png" width="65px"/>
 
 ### Performance & SEO
 
@@ -343,7 +343,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 <!-- Tech Stack Section -->
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <img src="./assets/icons/source-code-blue.png" width="40"/>
   <br/>
   <strong><span style="font-size: 30px;">Tech Stack</span></strong>
   <br/>
@@ -400,7 +400,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 <!-- Featured Projects -->
 <!-- Featured Projects -->
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <img src="./assets/icons/source-code-blue.png" width="40"/>
   <br/>
   <strong><span style="font-size: 30px;">Featured Projects</span></strong>
   <br/>
@@ -411,7 +411,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 <table border="0" width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="https://github.com/iamOmarFaruk/LifeCherry-frontend/raw/main/public/screenshot.png" alt="LifeCherry Preview" width="100%" style="border-radius: 12px;"/>
+      <img src="./assets/projects/lifecherry.png" alt="LifeCherry Preview" width="100%" style="border-radius: 12px;"/>
     </td>
     <td width="45%" valign="top">
       <h3 align="left">LifeCherry Frontend</h3>
@@ -432,7 +432,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
   </tr>
   <tr>
     <td width="55%" align="center">
-      <img src="https://github.com/iamOmarFaruk/EcoTrack-Front/raw/main/ecotrack-screenshot.png" alt="EcoTrack Preview" width="100%" style="border-radius: 12px;"/>
+      <img src="./assets/projects/ecotrack.png" alt="EcoTrack Preview" width="100%" style="border-radius: 12px;"/>
     </td>
     <td width="45%" valign="top">
       <h3 align="left">EcoTrack Dashboard</h3>
@@ -459,7 +459,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 <!-- Testimonials -->
 <!-- Testimonials -->
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
+  <img src="./assets/icons/source-code-blue.png" width="40"/>
   <br/>
   <strong><span style="font-size: 30px;">What Clients Say</span></strong>
   <br/>
