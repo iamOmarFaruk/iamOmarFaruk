@@ -410,7 +410,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
         <td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" /><br />PHP</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" /><br />Laravel</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" /><br />WordPress</td>
-        <td align="center"><img src="https://skillicons.dev/icons?i=shopify&theme=dark" width="48" /><br />Shopify</td>
+        <td align="center"><img src="./assets/shopify.png" width="48" /><br />Shopify</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /><br />MySQL</td>
     </tr>
     <tr>
@@ -423,7 +423,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
         <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br />AWS</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="48" /><br />DigitalOcean</td>
+        <td align="center"><img src="./assets/digitalocean.png" width="48" /><br />DigitalOcean</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" /><br />Vercel</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" /><br />Netlify</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br />Git</td>
