@@ -94,244 +94,110 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 
 <div align="center">
 
-<!-- Row 1 -->
-<table border="0">
-<tr>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/frontend_3d.png" width="65px"/>
-
-### Frontend Excellence
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" height="30"/>
-
-<br/>
-
-Building **lightning-fast**, accessible, and scalable user interfaces with Core Web Vitals focus.
-
-<br/>
-
-![SaaS](https://img.shields.io/badge/SaaS-000000?style=flat-square)
-![Dashboards](https://img.shields.io/badge/Dashboards-1a1a2e?style=flat-square)
-![Landing](https://img.shields.io/badge/Landing_Pages-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/backend_3d.png" width="65px"/>
-
-### Full-Stack Solutions
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" height="30"/>
-
-<br/>
-
-Robust full-stack apps with secure backend architectures and seamless **client-server integration**.
-
-<br/>
-
-![MVPs](https://img.shields.io/badge/MVPs-000000?style=flat-square)
-![Enterprise](https://img.shields.io/badge/Enterprise-1a1a2e?style=flat-square)
-![Tools](https://img.shields.io/badge/Internal_Tools-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<!-- Row 2 -->
-<table border="0">
-<tr>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/cloud_3d.png" width="65px"/>
-
-### SaaS Architecture
-
-<img src="https://skillicons.dev/icons?i=nextjs,firebase,supabase,docker&theme=dark" height="30"/>
-
-<br/>
-
-Production-ready SaaS platforms with **multi-tenancy**, role-based access, and cloud deployments.
-
-<br/>
-
-![Subscriptions](https://img.shields.io/badge/Subscriptions-000000?style=flat-square)
-![B2B](https://img.shields.io/badge/B2B_Apps-1a1a2e?style=flat-square)
-![Marketplaces](https://img.shields.io/badge/Marketplaces-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/api_3d.png" width="65px"/>
-
-### API Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma&theme=dark" height="30"/>
-
-<br/>
-
-Efficient REST and GraphQL APIs optimized for speed, security, and **scalability**.
-
-<br/>
-
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square)
-![Integrations](https://img.shields.io/badge/Integrations-1a1a2e?style=flat-square)
-![Data_Sync](https://img.shields.io/badge/Data_Sync-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<!-- Row 3 -->
-<table border="0">
-<tr>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/database_3d.png" width="65px"/>
-
-### Real-time BaaS
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,js,ts&theme=dark" height="30"/>
-
-<br/>
-
-Rapid development with serverless backends, **real-time sync**, and secure cloud functions.
-
-<br/>
-
-![Real-time](https://img.shields.io/badge/Real--time_Apps-000000?style=flat-square)
-![Chat](https://img.shields.io/badge/Chat_Systems-1a1a2e?style=flat-square)
-![MVPs](https://img.shields.io/badge/Fast_MVPs-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/wordpress_3d.png" width="65px"/>
-
-### WordPress Custom
-
-<img src="https://skillicons.dev/icons?i=wordpress,php,mysql,css&theme=dark" height="30"/>
-
-<br/>
-
-Custom themes and plugins for speed, SEO, and **business growth** without bloated builders.
-
-<br/>
-
-![Business](https://img.shields.io/badge/Business_Sites-000000?style=flat-square)
-![Blogs](https://img.shields.io/badge/Blogs-1a1a2e?style=flat-square)
-![Themes](https://img.shields.io/badge/Custom_Themes-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<!-- Row 4 -->
-<table border="0">
-<tr>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/layers_3d.png" width="65px"/>
-
-### Laravel Ecosystem
-
-<img src="https://skillicons.dev/icons?i=laravel,php,vue,react&theme=dark" height="30"/>
-
-<br/>
-
-Building robust apps with **Inertia.js**, Livewire, and scalable APIs using modern frontend stacks.
-
-<br/>
-
-![Inertia](https://img.shields.io/badge/Inertia.js-000000?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full_Stack-1a1a2e?style=flat-square)
-![API](https://img.shields.io/badge/Rest_API-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-<td align="center" width="50%">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="./assets/icons/rocket_3d.png" width="65px"/>
-
-### Performance & SEO
-
-<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" height="30"/>
-
-<br/>
-
-Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performance.
-
-<br/>
-
-![Audits](https://img.shields.io/badge/Audits-000000?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance-1a1a2e?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO_Strategy-16213e?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
+<table width="100%" border="0">
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/frontend_3d.png" width="65px"/>
+      <h3>Frontend Excellence</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" height="30"/>
+      <br/><br/>
+      Building **lightning-fast**, accessible, and scalable user interfaces with Core Web Vitals focus.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SaaS-000000?style=flat-square" alt="SaaS"/>
+      <img src="https://img.shields.io/badge/Dashboards-1a1a2e?style=flat-square" alt="Dashboards"/>
+      <img src="https://img.shields.io/badge/Landing_Pages-16213e?style=flat-square" alt="Landing"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/backend_3d.png" width="65px"/>
+      <h3>Full-Stack Solutions</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" height="30"/>
+      <br/><br/>
+      Robust full-stack apps with secure backend architectures and seamless **client-server integration**.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MVPs-000000?style=flat-square" alt="MVPs"/>
+      <img src="https://img.shields.io/badge/Enterprise-1a1a2e?style=flat-square" alt="Enterprise"/>
+      <img src="https://img.shields.io/badge/Internal_Tools-16213e?style=flat-square" alt="Tools"/>
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/cloud_3d.png" width="65px"/>
+      <h3>SaaS Architecture</h3>
+      <img src="https://skillicons.dev/icons?i=nextjs,firebase,supabase,docker&theme=dark" height="30"/>
+      <br/><br/>
+      Production-ready SaaS platforms with **multi-tenancy**, role-based access, and cloud deployments.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Subscriptions-000000?style=flat-square" alt="Subscriptions"/>
+      <img src="https://img.shields.io/badge/B2B_Apps-1a1a2e?style=flat-square" alt="B2B"/>
+      <img src="https://img.shields.io/badge/Marketplaces-16213e?style=flat-square" alt="Marketplaces"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/api_3d.png" width="65px"/>
+      <h3>API Development</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma&theme=dark" height="30"/>
+      <br/><br/>
+      Efficient REST and GraphQL APIs optimized for speed, security, and **scalability**.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square" alt="Microservices"/>
+      <img src="https://img.shields.io/badge/Integrations-1a1a2e?style=flat-square" alt="Integrations"/>
+      <img src="https://img.shields.io/badge/Data_Sync-16213e?style=flat-square" alt="Data Sync"/>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/database_3d.png" width="65px"/>
+      <h3>Real-time BaaS</h3>
+      <img src="https://skillicons.dev/icons?i=firebase,supabase,js,ts&theme=dark" height="30"/>
+      <br/><br/>
+      Rapid development with serverless backends, **real-time sync**, and secure cloud functions.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Real--time_Apps-000000?style=flat-square" alt="Real time"/>
+      <img src="https://img.shields.io/badge/Chat_Systems-1a1a2e?style=flat-square" alt="Chat"/>
+      <img src="https://img.shields.io/badge/Fast_MVPs-16213e?style=flat-square" alt="MVPs"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/wordpress_3d.png" width="65px"/>
+      <h3>WordPress Custom</h3>
+      <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,css&theme=dark" height="30"/>
+      <br/><br/>
+      Custom themes and plugins for speed, SEO, and **business growth** without bloated builders.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Business_Sites-000000?style=flat-square" alt="Business"/>
+      <img src="https://img.shields.io/badge/Blogs-1a1a2e?style=flat-square" alt="Blogs"/>
+      <img src="https://img.shields.io/badge/Custom_Themes-16213e?style=flat-square" alt="Themes"/>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/layers_3d.png" width="65px"/>
+      <h3>Laravel Ecosystem</h3>
+      <img src="https://skillicons.dev/icons?i=laravel,php,vue,react&theme=dark" height="30"/>
+      <br/><br/>
+      Building robust apps with **Inertia.js**, Livewire, and scalable APIs using modern frontend stacks.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Inertia.js-000000?style=flat-square" alt="Inertia"/>
+      <img src="https://img.shields.io/badge/Full_Stack-1a1a2e?style=flat-square" alt="Full Stack"/>
+      <img src="https://img.shields.io/badge/Rest_API-16213e?style=flat-square" alt="API"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/icons/rocket_3d.png" width="65px"/>
+      <h3>Performance & SEO</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" height="30"/>
+      <br/><br/>
+      Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performance.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Audits-000000?style=flat-square" alt="Audits"/>
+      <img src="https://img.shields.io/badge/Performance-1a1a2e?style=flat-square" alt="Performance"/>
+      <img src="https://img.shields.io/badge/SEO_Strategy-16213e?style=flat-square" alt="SEO"/>
+    </td>
+  </tr>
 </table>
 
 </div>
