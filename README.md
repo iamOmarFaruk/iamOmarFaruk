@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated Circuit Board Header -->
-<img src="./assets/header-circuit.svg" width="100%" alt="Omar Faruk - Full-Stack Developer • CMS Expert • DevOps Specialist"/>
+<img src="./assets/header-circuit.svg?v=2" width="100%" alt="Omar Faruk - Full-Stack Developer • CMS Expert • DevOps Specialist"/>
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
