@@ -149,10 +149,11 @@ Optimizing:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- Services Card View -->
-<h2 align="center">
+<div align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
-  Premium Services & Solutions
-</h2>
+  <br/>
+  <strong><span style="font-size: 24px;">Premium Services & Solutions</span></strong>
+</div>
 
 <p align="center">
   <sub>Delivering excellence through modern technologies and best practices</sub>
@@ -164,8 +165,6 @@ Optimizing:
 <table>
 <tr>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -191,12 +190,8 @@ Building **lightning-fast**, accessible, and scalable user interfaces with Core 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
-
 </td>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -222,8 +217,6 @@ Robust full-stack apps with secure backend architectures and seamless **client-s
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
-
 </td>
 </tr>
 </table>
@@ -232,8 +225,6 @@ Robust full-stack apps with secure backend architectures and seamless **client-s
 <table>
 <tr>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -259,12 +250,8 @@ Production-ready SaaS platforms with **multi-tenancy**, role-based access, and c
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
-
 </td>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -290,8 +277,6 @@ Efficient REST and GraphQL APIs optimized for speed, security, and **scalability
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
-
 </td>
 </tr>
 </table>
@@ -300,8 +285,6 @@ Efficient REST and GraphQL APIs optimized for speed, security, and **scalability
 <table>
 <tr>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -327,12 +310,8 @@ Rapid development with serverless backends, **real-time sync**, and secure cloud
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
-
 </td>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -358,8 +337,6 @@ Custom themes and plugins for speed, SEO, and **business growth** without bloate
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
-
 </td>
 </tr>
 </table>
@@ -368,8 +345,6 @@ Custom themes and plugins for speed, SEO, and **business growth** without bloate
 <table>
 <tr>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -395,12 +370,8 @@ Creating **immersive experiences** with smooth animations, micro-interactions, a
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
-
 </td>
 <td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=header&reversal=false" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -425,8 +396,6 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer&reversal=true" width="100%"/>
 
 </td>
 </tr>
