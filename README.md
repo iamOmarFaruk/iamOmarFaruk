@@ -38,12 +38,9 @@
 </div>
 
 <br/>
-
-
-
+<br/>
 <br/>
 
-<!-- About Me Section -->
 <!-- About Me Section -->
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/100/007BFF/source-code.png" width="40"/>
@@ -78,13 +75,8 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 </table>
 
 <br/>
-
-
-
-
-
-
-
+<br/>
+<br/>
 <!-- Services Card View -->
 <!-- Services Card View -->
 <div align="center">
@@ -345,7 +337,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 </div>
 
 <br/>
-
+<br/>
 <br/>
 
 <!-- Tech Stack Section -->
@@ -403,9 +395,8 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 </div>
 
 <br/>
-
-
-
+<br/>
+<br/>
 <!-- Featured Projects -->
 <!-- Featured Projects -->
 <div align="center">
@@ -462,9 +453,9 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
   </tr>
 </table>
 
-
-
-
+<br/>
+<br/>
+<br/>
 <!-- Testimonials -->
 <!-- Testimonials -->
 <div align="center">
@@ -509,11 +500,8 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 </div>
 
 <br/>
-
-
-
-
-
+<br/>
+<br/>
 <div align="center">
   <sub>Clean code is written by someone who cares — Omar</sub>
 </div>
