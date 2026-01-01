@@ -1,57 +1,46 @@
-<!--
-████████████████████████████████████████████████████████████████████████████████
-█                                                                              █
-█      ██████╗ ███╗   ███╗ █████╗ ██████╗     ███████╗██████╗ ██████╗        █
-█     ██╔═══██╗████╗ ████║██╔══██╗██╔══██╗    ██╔════╝██╔══██╗██╔══██╗       █
-█     ██║   ██║██╔████╔██║███████║██████╔╝    █████╗  ██████╔╝██║  ██║       █
-█     ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██╔══╝  ██╔══██╗██║  ██║       █
-█     ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ██║     ██║  ██║██████╔╝       █
-█      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═════╝        █
-█                                                                              █
-█         Full-Stack Developer • CMS Expert • Performance Specialist           █
-█                                                                              █
-████████████████████████████████████████████████████████████████████████████████
--->
 
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5a5,0b0f14&height=280&section=header&text=Omar%20Faruk&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20CMS%20Expert%20%E2%80%A2%20DevOps%20Specialist&descSize=20&descAlignY=53&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,333333&height=280&section=header&text=Omar%20Faruk&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20CMS%20Expert%20%E2%80%A2%20DevOps%20Specialist&descSize=20&descAlignY=53&animation=twinkling" width="100%"/>
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5A5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+High-Performance+Web+Solutions;Expert+in+React,+Next.js,+and+Modern+Tech+Stacks;Mastering+Shopify,+WordPress,+and+CMS+Platforms;Developing+Custom+Chrome+Extensions+%26+Tools;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+High-Performance+Web+Solutions;Expert+in+React,+Next.js,+and+Modern+Tech+Stacks;Mastering+Shopify,+WordPress,+and+CMS+Platforms;Developing+Custom+Chrome+Extensions+%26+Tools;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
 </div>
+
+<br/>
+<br/>
 
 <!-- Status Badges -->
 <p align="center">
   <a href="https://www.google.com/maps/place/Bangladesh">
-    <img src="https://img.shields.io/badge/-Bangladesh-0ea5a5?style=for-the-badge&logo=googlemaps&logoColor=white">
+    <img src="https://img.shields.io/badge/-Bangladesh-000000?style=for-the-badge&logo=googlemaps&logoColor=white">
   </a>
   <a href="https://www.upwork.com/freelancers/~0139a09420769b0b8c">
-    <img src="https://img.shields.io/badge/-Available%20for%20Hire-success?style=for-the-badge&logo=handshake&logoColor=white">
+    <img src="https://img.shields.io/badge/-Available%20for%20Hire-333333?style=for-the-badge&logo=handshake&logoColor=white">
   </a>
   <a href="https://omarfaruk.dev/">
-    <img src="https://img.shields.io/badge/-View%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:omabg.bd@gmail.com">
-    <img src="https://img.shields.io/badge/-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Get%20In%20Touch-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-expert-webdeveloper/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/iamOmarFaruk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://x.com/omarfaruksarkar">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.facebook.com/omar00faruk">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
@@ -425,7 +414,7 @@ Ongoing support, bug fixes, feature enhancements, and custom browser extension d
 
 <!-- Footer Capsule -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5a5,0b0f14&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,333333&height=120&section=footer" width="100%"/>
   <sub>Clean code is written by someone who cares.</sub>
 </div>
 
