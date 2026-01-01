@@ -39,10 +39,7 @@
 
 <br/>
 
-<!-- Elegant Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
+
 
 <br/>
 
@@ -124,8 +121,7 @@ Optimizing:
 
 <br/>
 
-<!-- Elegant Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 <!-- What I Offer -->
 <h2 align="left">
@@ -145,8 +141,7 @@ Optimizing:
 | 📈 **Performance & SEO Optimization** | Core Web Vitals, SEO, UX | Optimize speed, animation performance, user flow, and search visibility. Faster experience that converts better | Existing sites needing improvement |
 <br/>
 
-<!-- Elegant Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 <!-- Services Card View -->
 <div align="center">
@@ -440,8 +435,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 
 <br/>
 
-<!-- Elegant Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 <!-- Featured Projects -->
 <h2 align="center">
@@ -481,8 +475,7 @@ Optimizing **Core Web Vitals**, rankings, and conversion rates for peak performa
 
 <br/>
 
-<!-- Elegant Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 <!-- Professional Services -->
 <h2 align="center">
@@ -546,8 +539,7 @@ Ongoing support, bug fixes, feature enhancements, and custom browser extension d
 
 <br/>
 
-<!-- Elegant Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 <!-- Testimonials -->
 <h2 align="center">
@@ -589,8 +581,7 @@ Ongoing support, bug fixes, feature enhancements, and custom browser extension d
 
 <br/>
 
-<!-- Elegant Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 <!-- Github Stats -->
 <h2 align="center">
