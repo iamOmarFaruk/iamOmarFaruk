@@ -6,7 +6,7 @@
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Building+Scalable+High-Performance+Web+Solutions;Expert+in+React,+Next.js,+and+Modern+Tech+Stacks;Mastering+Shopify,+WordPress,+and+CMS+Platforms;Developing+Custom+Chrome+Extensions+%26+Tools;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Fast,+Clean+Websites+%26+Web+Apps;WordPress+Expert+-+Divi+%26+Elementor;React,+Next.js+%26+Firebase+Developer;Founder+of+Pixoner+Lab+-+Learning+Apps+for+Kids;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,24 +14,26 @@
 
 <!-- Status Badges & Social Links -->
 <p align="center">
- 
-  <a href="https://www.upwork.com/freelancers/~0139a09420769b0b8c">
-    <img src="https://img.shields.io/badge/-Available%20for%20Hire-333333?style=for-the-badge&logo=handshake&logoColor=white">
-  </a>
   <a href="https://omarfaruk.dev/">
-    <img src="https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-omarfaruk.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="omarfaruk.dev">
+  </a>
+  <a href="https://pixonerlab.com/">
+    <img src="https://img.shields.io/badge/-Pixoner%20Lab-333333?style=for-the-badge&logo=googleplay&logoColor=white" alt="Pixoner Lab">
   </a>
   <a href="mailto:omabg.bd@gmail.com">
-    <img src="https://img.shields.io/badge/-Get%20In%20Touch-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Get%20In%20Touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/omar-expert-webdeveloper/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/omarfaruksarkar">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.facebook.com/omar00faruk">
     <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0139a09420769b0b8c">
+    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
 </p>
 
@@ -60,6 +62,8 @@
 <td width="60%" valign="center">
 
 I’ve spent the last **12+ years** building software that solves real business problems.
+
+Today I focus on two things: **WordPress websites with Divi & Elementor** for businesses, and **modern web apps with React, Next.js & Firebase**. I also run **[Pixoner Lab](https://pixonerlab.com/)**, where I build gentle learning apps for kids.
 
 To me, you aren't just a ticket number. I take the time to look beyond the technical specs and understand your vision, ensuring we build a solution that actually drives growth. Whether it's a complex SaaS platform or a custom automation tool, I deliver code that is **clean, secure, and reliable.**
 
@@ -162,14 +166,14 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
     </td>
     <td width="50%" align="center" valign="top">
       <img src="./assets/icons/wordpress_3d.png" width="65px"/>
-      <h3>WordPress Custom</h3>
+      <h3>WordPress (Divi & Elementor)</h3>
       <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,css&theme=dark" height="30"/>
       <br/><br/>
-      Custom themes and plugins for speed, SEO, and **business growth** without bloated builders.
+      Fast business websites with **Divi & Elementor**, plus custom themes and plugins when a builder is not enough.
       <br/><br/>
       <img src="https://img.shields.io/badge/Business_Sites-000000?style=flat-square" alt="Business"/>
       <img src="https://img.shields.io/badge/Blogs-1a1a2e?style=flat-square" alt="Blogs"/>
-      <img src="https://img.shields.io/badge/Custom_Themes-16213e?style=flat-square" alt="Themes"/>
+      <img src="https://img.shields.io/badge/Divi_%26_Elementor-16213e?style=flat-square" alt="Divi and Elementor"/>
     </td>
   </tr>
 
@@ -277,47 +281,65 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 <table border="0" width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="./assets/projects/lifecherry.png" alt="LifeCherry Preview" width="100%" style="border-radius: 12px;"/>
+      <a href="https://pixonerlab.com/"><img src="https://img.shields.io/badge/Pixoner%20Lab-Learn%20%C2%B7%20Play%20%C2%B7%20Grow-7c3aed?style=for-the-badge" alt="Pixoner Lab"/></a>
     </td>
     <td width="45%" valign="top">
-      <h3 align="left">LifeCherry Frontend</h3>
+      <h3 align="left">Pixoner Lab</h3>
       <p>
-        <b>The Challenge:</b> Build an intuitive frontend for a social health platform that makes wellness tracking feel natural and engaging.
+        My own small studio for <b>kids' learning apps and games</b>: letters, numbers, colours and shapes taught through play, with calm design that is safe for families.
       </p>
-      <p>
-        <b>The Solution:</b> Designed and developed a React-based interface focused on smooth user flows, clear data visualization, and responsive design.
-      </p>
-      <p>
-        <b>Tech Stack:</b><br/>
-        <img src="https://img.shields.io/badge/-React-0b0f14?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
-        <img src="https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/-REST%20API-0b0f14?style=flat-square&logo=fastapi&logoColor=22d3ee" alt="REST API" />
-      </p>
-      <a href="https://github.com/iamOmarFaruk/LifeCherry-frontend">💻 View Source Code</a>
+      <a href="https://pixonerlab.com/">🌐 Visit pixonerlab.com</a>
     </td>
   </tr>
   <tr>
     <td width="55%" align="center">
-      <img src="./assets/projects/ecotrack.png" alt="EcoTrack Preview" width="100%" style="border-radius: 12px;"/>
+      <img src="https://raw.githubusercontent.com/iamOmarFaruk/PexT--Next-JS-and-tailwind-css-landing-page/refs/heads/main/screenshot.png" alt="PexT Preview" width="100%" style="border-radius: 12px;"/>
     </td>
     <td width="45%" valign="top">
-      <h3 align="left">EcoTrack Dashboard</h3>
+      <h3 align="left">PexT – SaaS Landing Page</h3>
       <p>
-        <b>The Challenge:</b> Create a comprehensive dashboard for environmental data tracking with clear reporting.
-      </p>
-      <p>
-        <b>The Solution:</b> Built a React dashboard with clean UI components that transform complex environmental data into actionable insights.
+        A modern SaaS landing page with hero, features, pricing, dashboard preview and testimonials. Reusable components, typed data and a mobile-first layout.
       </p>
       <p>
         <b>Tech Stack:</b><br/>
-        <img src="https://img.shields.io/badge/-React-0b0f14?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
-        <img src="https://img.shields.io/badge/-JavaScript-0b0f14?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JS" />
+        <img src="https://img.shields.io/badge/-Next.js-0b0f14?style=flat-square&logo=nextdotjs&logoColor=22d3ee" alt="Next.js" />
+        <img src="https://img.shields.io/badge/-TypeScript-0b0f14?style=flat-square&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
         <img src="https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind" />
       </p>
-      <a href="https://github.com/iamOmarFaruk/EcoTrack-Front">💻 View Source Code</a>
+      <a href="https://pex-t-next-js-and-tailwind-css-landing-page.vercel.app/">🚀 Live Demo</a> &nbsp;·&nbsp;
+      <a href="https://github.com/iamOmarFaruk/PexT--Next-JS-and-tailwind-css-landing-page">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://skillicons.dev/icons?i=wordpress,php,js,mysql&theme=dark" height="40"/>
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="left">PDM Job Board – WordPress Plugin</h3>
+      <p>
+        A modern, lightweight job board plugin for WordPress.
+      </p>
+      <a href="https://github.com/iamOmarFaruk/pdm-job-board">💻 Source Code</a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Client Websites -->
+<div align="center">
+  <strong><span style="font-size: 22px;">Some Client Websites I Built</span></strong>
+  <br/><br/>
+
+| Website | Business | Built with |
+|---|---|---|
+| [atecair.com](https://atecair.com) | HVAC company, Florida | WordPress + Divi |
+| [volusiaflaglerac.com](https://volusiaflaglerac.com) | HVAC company, Florida | WordPress + Divi |
+| [yourchironsb.com](https://www.yourchironsb.com) | Chiropractic clinic, Florida | WordPress + Elementor |
+| [contourlight.com](https://contourlight.com) | Red light therapy brand | WordPress + Divi |
+| [christmascometrue.org](https://christmascometrue.org) | Non-profit, Florida | WordPress + Divi |
+
+</div>
 
 <br/>
 <br/>
