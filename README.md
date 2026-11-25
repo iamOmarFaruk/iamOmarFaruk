@@ -6,7 +6,7 @@
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Fast,+Clean+Websites+%26+Web+Apps;WordPress+Expert+-+Divi+%26+Elementor;React,+Next.js+%26+Firebase+Developer;Founder+of+Pixoner+Lab+-+Learning+Apps+for+Kids;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+-+React,+Next.js+%26+TypeScript;Building+Web+Apps,+APIs+%26+Developer+Tools;WordPress+Expert+-+Divi+%26+Elementor;Founder+of+Pixoner+Lab+-+Learning+Apps+for+Kids;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,10 +20,10 @@
   <a href="https://pixonerlab.com/">
     <img src="https://img.shields.io/badge/-Pixoner%20Lab-333333?style=for-the-badge&logo=googleplay&logoColor=white" alt="Pixoner Lab">
   </a>
-  <a href="mailto:omabg.bd@gmail.com">
+  <a href="mailto:omarbg.bd@gmail.com">
     <img src="https://img.shields.io/badge/-Get%20In%20Touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/omar-expert-webdeveloper/">
+  <a href="https://www.linkedin.com/in/omarfaruksarkar/">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/omarfaruksarkar">
@@ -63,7 +63,7 @@
 
 I’ve spent the last **12+ years** building software that solves real business problems.
 
-Today I focus on two things: **WordPress websites with Divi & Elementor** for businesses, and **modern web apps with React, Next.js & Firebase**. I also run **[Pixoner Lab](https://pixonerlab.com/)**, where I build gentle learning apps for kids.
+I’m a full-stack developer at heart: **React, Next.js, TypeScript, Node.js and Firebase** for web apps, APIs and developer tools. I also build business websites with **WordPress, Divi & Elementor**, and I run **[Pixoner Lab](https://pixonerlab.com/)**, where I make gentle learning apps for kids.
 
 To me, you aren't just a ticket number. I take the time to look beyond the technical specs and understand your vision, ensuring we build a solution that actually drives growth. Whether it's a complex SaaS platform or a custom automation tool, I deliver code that is **clean, secure, and reliable.**
 
@@ -281,18 +281,6 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
 <table border="0" width="100%">
   <tr>
     <td width="55%" align="center">
-      <a href="https://pixonerlab.com/"><img src="https://img.shields.io/badge/Pixoner%20Lab-Learn%20%C2%B7%20Play%20%C2%B7%20Grow-7c3aed?style=for-the-badge" alt="Pixoner Lab"/></a>
-    </td>
-    <td width="45%" valign="top">
-      <h3 align="left">Pixoner Lab</h3>
-      <p>
-        My own small studio for <b>kids' learning apps and games</b>: letters, numbers, colours and shapes taught through play, with calm design that is safe for families.
-      </p>
-      <a href="https://pixonerlab.com/">🌐 Visit pixonerlab.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="55%" align="center">
       <img src="https://raw.githubusercontent.com/iamOmarFaruk/PexT--Next-JS-and-tailwind-css-landing-page/refs/heads/main/screenshot.png" alt="PexT Preview" width="100%" style="border-radius: 12px;"/>
     </td>
     <td width="45%" valign="top">
@@ -304,10 +292,64 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
         <b>Tech Stack:</b><br/>
         <img src="https://img.shields.io/badge/-Next.js-0b0f14?style=flat-square&logo=nextdotjs&logoColor=22d3ee" alt="Next.js" />
         <img src="https://img.shields.io/badge/-TypeScript-0b0f14?style=flat-square&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind CSS" />
       </p>
-      <a href="https://pex-t-next-js-and-tailwind-css-landing-page.vercel.app/">🚀 Live Demo</a> &nbsp;·&nbsp;
-      <a href="https://github.com/iamOmarFaruk/PexT--Next-JS-and-tailwind-css-landing-page">💻 Source Code</a>
+      <a href="https://pex-t-next-js-and-tailwind-css-landing-page.vercel.app/">🚀 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/iamOmarFaruk/PexT--Next-JS-and-tailwind-css-landing-page">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://raw.githubusercontent.com/iamOmarFaruk/Ollama-Chat/main/Screenshot%202025-02-18%20at%2011.47.32%E2%80%AFPM.png" alt="Ollama Chat Preview" width="100%" style="border-radius: 12px;"/>
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="left">Ollama Chat – Local AI Chat App</h3>
+      <p>
+        A ChatGPT-like chat app for local AI models. It finds Ollama and the models on your machine automatically, so you can chat with them in a clean web interface.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br/>
+        <img src="https://img.shields.io/badge/-Next.js-0b0f14?style=flat-square&logo=nextdotjs&logoColor=22d3ee" alt="Next.js" />
+        <img src="https://img.shields.io/badge/-React-0b0f14?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
+        <img src="https://img.shields.io/badge/-TypeScript-0b0f14?style=flat-square&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-0b0f14?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind CSS" />
+      </p>
+      <a href="https://github.com/iamOmarFaruk/Ollama-Chat">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://chromewebstore.google.com/detail/which-font/ahbhidgfakmjlfbbknalkhjalgiidlah"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Which%20Font%3F-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Which Font? on Chrome Web Store"/></a>
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="left">Which Font? – Chrome & Firefox Extension</h3>
+      <p>
+        Hover over any text on a web page to see its font, weight, size, line height, colour and HTML tag. Published on the Chrome Web Store, with a Firefox version too.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br/>
+        <img src="https://img.shields.io/badge/-JavaScript-0b0f14?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-Manifest%20V3-0b0f14?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="Manifest V3" />
+        <img src="https://img.shields.io/badge/-CSS-0b0f14?style=flat-square&logo=css3&logoColor=22d3ee" alt="CSS" />
+      </p>
+      <a href="https://chromewebstore.google.com/detail/which-font/ahbhidgfakmjlfbbknalkhjalgiidlah">🧩 Chrome Web Store</a> &nbsp;·&nbsp; <a href="https://github.com/iamOmarFaruk/whichfont">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://raw.githubusercontent.com/iamOmarFaruk/React-Native-Recipe-App/refs/heads/main/react-native.png" alt="React Native Recipe App Preview" width="100%" style="border-radius: 12px;"/>
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="left">React Native Recipe App</h3>
+      <p>
+        A mobile recipe app with multi-screen navigation, smooth animations and fully typed data.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br/>
+        <img src="https://img.shields.io/badge/-React%20Native-0b0f14?style=flat-square&logo=react&logoColor=22d3ee" alt="React Native" />
+        <img src="https://img.shields.io/badge/-TypeScript-0b0f14?style=flat-square&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-Reanimated-0b0f14?style=flat-square&logo=react&logoColor=22d3ee" alt="Reanimated" />
+      </p>
+      <a href="https://github.com/iamOmarFaruk/React-Native-Recipe-App">💻 Source Code</a>
     </td>
   </tr>
   <tr>
@@ -319,7 +361,29 @@ To me, you aren't just a ticket number. I take the time to look beyond the techn
       <p>
         A modern, lightweight job board plugin for WordPress.
       </p>
+      <p>
+        <b>Tech Stack:</b><br/>
+        <img src="https://img.shields.io/badge/-WordPress-0b0f14?style=flat-square&logo=wordpress&logoColor=22d3ee" alt="WordPress" />
+        <img src="https://img.shields.io/badge/-PHP-0b0f14?style=flat-square&logo=php&logoColor=22d3ee" alt="PHP" />
+        <img src="https://img.shields.io/badge/-JavaScript-0b0f14?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JavaScript" />
+      </p>
       <a href="https://github.com/iamOmarFaruk/pdm-job-board">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://pixonerlab.com/"><img src="https://img.shields.io/badge/Pixoner%20Lab-Learn%20%C2%B7%20Play%20%C2%B7%20Grow-7c3aed?style=for-the-badge" alt="Pixoner Lab"/></a>
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="left">Pixoner Lab</h3>
+      <p>
+        My own small studio for <b>kids' learning apps and games</b>: letters, numbers, colours and shapes taught through play, with calm design that is safe for families.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br/>
+        <img src="https://img.shields.io/badge/-Mobile%20Apps-0b0f14?style=flat-square&logo=googleplay&logoColor=22d3ee" alt="Mobile Apps" />
+      </p>
+      <a href="https://pixonerlab.com/">🌐 Visit pixonerlab.com</a>
     </td>
   </tr>
 </table>
